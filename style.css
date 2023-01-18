@@ -2,13 +2,12 @@ body {
   font-family: "Open Sans", "Arial", sans-serif;
   color:#FFF;
 margin-top:7rem;
+      height:100%;
+      width:100%;
       text-align: center;
-      background-color:#191919;
       background-image: url("/background.png");
-      background-size:cover;
-      background-position:center;
-      height:100vh;
-      width:100vw;
+      background: #191919 center/cover url("/background.png") no-repeat;
+
 }
 
 h1 {
