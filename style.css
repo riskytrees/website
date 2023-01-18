@@ -6,7 +6,7 @@ margin-top:7rem;
       height:100%;
       width:100%;
       text-align: center;
-      background-image: url("/background.png");
+      background-image: url(background.png);
       background-size:cover;
 
 }
