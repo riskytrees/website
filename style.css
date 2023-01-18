@@ -2,11 +2,12 @@ body {
   font-family: "Open Sans", "Arial", sans-serif;
   color:#FFF;
 margin-top:7rem;
+      min-height:1000px;
       height:100%;
       width:100%;
       text-align: center;
       background-image: url("/background.png");
-      background: #191919 center/cover url("/background.png") no-repeat;
+      background-size:cover;
 
 }
 
