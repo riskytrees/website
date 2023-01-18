@@ -4,6 +4,8 @@ body {
 margin-top:7rem;
       text-align: center;
       background-color:#191919;
+      background-image: url("background.png");
+      background-size:cover;
 }
 
 h1 {
@@ -21,6 +23,5 @@ h1 {
 #logo_image {
   width:35vw;
   min-width:300px;
- filter: invert(100%);
 
 }
